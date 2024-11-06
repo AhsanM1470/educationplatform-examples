@@ -18,7 +18,7 @@
             "layout": {
 
                     "area": [
-                        ["panel-model", "panel-ocl", "panel-console"  ],
+                        ["panel-model", "panel-ocl", "panel-console", "panel-instructions"],
                         [ "panel-metamodel" , ""  ]
                     ]
 
@@ -87,6 +87,13 @@
     
                     "ref": "console"
     
+                },
+
+                {
+                    "id": "panel-instructions",
+                    "name": "Instructions",
+                    "red": "markdown",
+                    "file": "README.md"
                 }
 
             ],
