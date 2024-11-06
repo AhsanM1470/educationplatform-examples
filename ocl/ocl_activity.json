@@ -92,7 +92,7 @@
                 {
                     "id": "panel-instructions",
                     "name": "Instructions",
-                    "red": "markdown",
+                    "ref": "markdown",
                     "file": "README.md"
                 }
 
