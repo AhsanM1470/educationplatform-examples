@@ -89,7 +89,10 @@
     
                 }
 
-            ]
+            ],
+            "instructions": {
+                "file": "README.md"
+            }
 
         }
 
