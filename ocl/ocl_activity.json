@@ -87,13 +87,6 @@
     
                     "ref": "console"
     
-                },
-
-                {
-                    "id": "panel-instructions",
-                    "name": "Instructions",
-                    "ref": "console",
-                    "file": "README.md"
                 }
 
             ],
