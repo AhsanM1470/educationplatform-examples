@@ -16,7 +16,8 @@
 
                     "area": [
                         ["panel-xtext" ],
-                        ["panel-console" ]
+                        ["panel-console" ],
+                        ["console-2" ]
                     ]
 
                 },
@@ -56,6 +57,24 @@
                     "editorPanel": "panel-turtles",
                     
                     "editorActivity": "activity-turtles-editor"
+                },
+
+
+                {
+    
+                    "id": "panel-console",
+    
+                    "name": "Console",
+    
+                    "ref": "console"
+    
+                },
+
+                {
+                    "id": "console-2",
+                    "name": "console-2",
+                    "ref": console
+                    
                 }
 
             ]
