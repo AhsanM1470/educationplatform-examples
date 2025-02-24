@@ -1,5 +1,5 @@
 # Welcome
-This is an **interactive** guide.
+This is an **interactive** _guide_.
 
 ## First
 Click on the [link](https://github.com/) to get started.
