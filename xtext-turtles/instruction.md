@@ -1,21 +1,16 @@
-# Header
+# Welcome
+This is an **interactive** guide.
 
-## Sub header
+## First
+Click on the [link](https://github.com/) to get started.
 
-### sub sub header
+1. Write code {pointed: panel-xtextPanel, highlighted: panel-consolePanel}
+2. Check output {pointed: panel-consolePanel}
 
-Text
+## Next
+Do these as well:
+- Text1 {pointed: panel-xtextPanel}
+- Text2 {pointed: panel-consolePanel}
 
-**bold**
-
-*italic*
-
-This site was built using [GitHub Pages](https://pages.github.com/)
-
-Ordered list:
-1. Item
-2. Item
-
-Unordered list:
-- Item
-- Item
+### Final
+Done!
