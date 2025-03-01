@@ -10,7 +10,7 @@ Click on the [link](https://github.com/) to get started.
 ## Next
 Do these as well:
 - Text1 <!-- {pointed: panel-xtext, highlighted: panel-console, panel-instruction} -->
-- Text2 <!-- {pointed: panel-consoleP} -->
+- Text2 <!-- {pointed: panel-console} -->
 
 ### Final
 Done!
