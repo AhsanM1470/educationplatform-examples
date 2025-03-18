@@ -25,4 +25,4 @@ This entities grammar already uses the most important concepts of Xtext’s gram
 Please consult the (Grammar Language Reference)[https://eclipse.dev/Xtext/documentation/301_grammarlanguage.html] for more details.
 
 ## Generate Language Artifacts
-Now that we have the grammar in place we need to execute the code generator that will derive the various language components. To do so, click on "run".
+Now that we have the grammar in place we need to execute the code generator that will derive the various language components. To do so, click on green button labelled "Generate Editor" <!-- {pointed: panel-xtext, highlighted: panel-console} -->
