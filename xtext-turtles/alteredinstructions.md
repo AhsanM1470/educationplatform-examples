@@ -17,7 +17,7 @@ As you can see, the xtext panel already contains a simple Hello World grammar.
 
 This entities grammar already uses the most important concepts of Xtext’s grammar language. You have learned that keywords are written as string literals and a simple assignment uses a plain equal sign (=), whereas a multi-value assignment uses a plus-equals (+=). We have also seen the boolean assignment operator (?=). Furthermore the example contains syntax elements with different cardinalities (? = optional, * = any number, + = at least once) and demonstrates how cross-references can be declared. 
 
-Please consult the [Grammar Language Reference](https://eclipse.dev/Xtext/documentation/301_grammarlanguage.html) for more details.
+Please consult the [Grammar Language Reference](https://eclipse.dev/Xtext/documentation/301_grammarlanguage.html) for more details. <!-- {pointed: panel-console} -->
 
 ## Generate Language Artifacts
 Now that we have the grammar in place we need to execute the code generator that will derive the various language components. To do so, click on green button labelled "Generate Editor" <!-- {pointed: panel-xtext, highlighted: panel-console} -->
