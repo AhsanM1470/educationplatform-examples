@@ -19,7 +19,7 @@
 
                     "area": [
                         ["panel-model", "panel-ocl", "panel-console"  ],
-                        [ "panel-metamodel" , ""  ]
+                        [ "panel-metamodel" , "", "panel-instruction"  ]
                     ]
 
                 },
@@ -87,6 +87,17 @@
     
                     "ref": "console"
     
+                },
+
+                {
+                    "id": "panel-instruction",
+
+                    "name": "Instruction",
+
+                    "ref": "instruction",
+
+                    "file": "instruction.md"
+                    
                 }
 
             ]
