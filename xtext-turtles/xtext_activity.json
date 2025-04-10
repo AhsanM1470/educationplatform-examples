@@ -15,9 +15,9 @@
             "layout": {
 
                     "area": [
-                        ["panel-xtext", "panel-output1" ],
-                        ["panel-console", "panel-output2" ],
-                        ["panel-instruction", "panel-output3" ]
+                        ["panel-xtext" ],
+                        ["panel-console" ],
+                        ["panel-instruction" ]
                     ]
 
                 },
@@ -119,6 +119,16 @@
     
                     "ref": "output"
     
+                },
+
+                {
+                    "id": "panel-composite",
+
+                    "name": "Composite",
+
+                    "ref": "composite",
+
+                    "childPanels": ["panel-output3", "panel-output4"]
                 }
 
             ]
