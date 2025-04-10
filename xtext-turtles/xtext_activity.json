@@ -15,9 +15,9 @@
             "layout": {
 
                     "area": [
-                        ["panel-xtext", "panel-console2" ],
-                        ["panel-console", "panel-console3" ],
-                        ["panel-instruction", "panel-console4" ]
+                        ["panel-xtext" ],
+                        ["panel-console" ],
+                        ["panel-instruction" ]
                     ]
 
                 },
@@ -79,37 +79,7 @@
 
                     "file": "instruction.md"
                     
-                }.
-
-                {
-    
-                    "id": "panel-console2",
-    
-                    "name": "Console2",
-    
-                    "ref": "console"
-    
-                },
-
-                {
-    
-                    "id": "panel-console3",
-    
-                    "name": "Console3",
-    
-                    "ref": "console"
-    
-                },
-
-                {
-    
-                    "id": "panel-console4",
-    
-                    "name": "Console4",
-    
-                    "ref": "console"
-    
-                },
+                }
 
             ]
 
