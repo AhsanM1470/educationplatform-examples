@@ -15,9 +15,9 @@
             "layout": {
 
                     "area": [
-                        ["panel-xtext" ],
-                        ["panel-console" ],
-                        ["panel-instruction" ]
+                        ["panel-xtext", "panel-output1" ],
+                        ["panel-console", "panel-output2" ],
+                        ["panel-instruction", "panel-composite" ]
                     ]
 
                 },
@@ -79,6 +79,56 @@
 
                     "file": "instruction.md"
                     
+                },
+
+                {
+    
+                    "id": "panel-output1",
+    
+                    "name": "Output1",
+    
+                    "ref": "output"
+    
+                },
+
+                {
+    
+                    "id": "panel-output2",
+    
+                    "name": "Output2",
+    
+                    "ref": "output"
+    
+                },
+
+                {
+    
+                    "id": "panel-output3",
+    
+                    "name": "Output3",
+    
+                    "ref": "output"
+    
+                },
+
+                {
+    
+                    "id": "panel-output4",
+    
+                    "name": "Output4",
+    
+                    "ref": "output"
+    
+                },
+
+                {
+                    "id": "panel-composite",
+
+                    "name": "Composite",
+
+                    "ref": "composite",
+
+                    "childPanels": ["panel-output3", "panel-output4"]
                 }
 
             ]
