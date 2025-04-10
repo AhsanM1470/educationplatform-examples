@@ -15,7 +15,7 @@
             "layout": {
 
                     "area": [
-                        ["panel-xtext" ],
+                        ["panel-xtext", "panel-output" ],
                         ["panel-console" ],
                         ["panel-instruction" ]
                     ]
@@ -78,6 +78,15 @@
                     "ref": "instruction",
 
                     "file": "instruction.md"
+                    
+                }.
+
+                {
+                    "id": "panel-output1",
+
+                    "name": "Output1",
+
+                    "ref": "output"
                     
                 }
 
