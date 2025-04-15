@@ -1,100 +1,12 @@
-1. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-1. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-3. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-4. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-5. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-6. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-7. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-8. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-9. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-10. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-11. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-12. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-13. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-14. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-15. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-16. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-17. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-18. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-19. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-20. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-21. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-22. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-23. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-24. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-25. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-26. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-27. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-28. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-29. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-30. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-31. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-32. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-33. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-34. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-35. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-36. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-37. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-38. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-39. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-40. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-41. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-42. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-43. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-44. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-45. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-46. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-47. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-48. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-49. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-50. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-51. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-52. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-53. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-54. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-55. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-56. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-57. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-58. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-59. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-60. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-61. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-62. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-63. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-64. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-65. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-66. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-67. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-68. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-69. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-70. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-71. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-72. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-73. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-74. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-75. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-76. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-77. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-78. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-79. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-80. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-81. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-82. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-83. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-84. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-85. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-86. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-87. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-88. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-89. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-90. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-91. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-92. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-93. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-94. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-95. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-96. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-97. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-98. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-99. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-100. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+1. Write code <!-- {pointed: panel-xtext} -->
+1. Write code <!-- {pointed: panel-console} -->
+3. Write code <!-- {pointed: panel-console2} -->
+4. Write code <!-- {pointed: panel-console3} -->
+5. Write code <!-- {pointed: panel-console4} -->
+6. Write code <!-- {pointed: panel-console5} -->
+7. Write code <!-- {pointed: panel-console6} -->
+8. Write code <!-- {pointed: panel-console7} -->
+9. Write code <!-- {pointed: panel-console8} -->
+
+# Done
+see yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
