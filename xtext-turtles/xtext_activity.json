@@ -16,7 +16,8 @@
 
                     "area": [
                         ["panel-xtext", "panel-console", "panel-console2", "panel-console4" ],
-                        ["panel-instruction", "", "panel-console3", "panel-console5" ]
+                        ["panel-instruction", "", "panel-console3", "panel-console5" ],
+                        ["panel-console6", "", "panel-console7", "panel-console8"]
                     ]
 
                 },
@@ -113,6 +114,36 @@
                 {
     
                     "id": "panel-console5",
+    
+                    "name": "Console",
+    
+                    "ref": "console"
+    
+                },
+
+                {
+    
+                    "id": "panel-console6",
+    
+                    "name": "Console",
+    
+                    "ref": "console"
+    
+                },
+
+                {
+    
+                    "id": "panel-console7",
+    
+                    "name": "Console",
+    
+                    "ref": "console"
+    
+                },
+
+                {
+    
+                    "id": "panel-console8",
     
                     "name": "Console",
     
