@@ -80,26 +80,6 @@
                     
                 },
 
-                {
-    
-                    "id": "panel-console2",
-    
-                    "name": "Console",
-    
-                    "ref": "console"
-    
-                },
-
-                {
-    
-                    "id": "panel-console3",
-    
-                    "name": "Console",
-    
-                    "ref": "console"
-    
-                },
-
             ]
 
         }
