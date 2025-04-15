@@ -15,7 +15,9 @@
             "layout": {
 
                     "area": [
-                        ["panel-xtext" ]
+                        ["panel-xtext" ],
+                        ["panel-console" ],
+                        ["panel-instruction" ]
                     ]
 
                 },
@@ -55,6 +57,28 @@
                     "editorPanel": "panel-turtles",
                     
                     "editorActivity": "activity-turtles-editor"
+                },
+
+
+                {
+    
+                    "id": "panel-console",
+    
+                    "name": "Console",
+    
+                    "ref": "console"
+    
+                },
+
+                {
+                    "id": "panel-instruction",
+
+                    "name": "Instruction",
+
+                    "ref": "instruction",
+
+                    "file": "instruction.md"
+                    
                 }
 
             ]
