@@ -15,8 +15,8 @@
             "layout": {
 
                     "area": [
-                        ["panel-xtext", "panel-console", "panel-console2" ],
-                        ["panel-instruction", "", "panel-console3" ]
+                        ["panel-xtext", "panel-console" ],
+                        ["panel-instruction", "" ]
                     ]
 
                 },
