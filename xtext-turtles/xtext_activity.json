@@ -16,7 +16,6 @@
 
                     "area": [
                         ["panel-xtext" ],
-                        ["panel-console" ],
                         ["panel-instruction" ]
                     ]
 
