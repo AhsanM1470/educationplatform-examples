@@ -1,5 +1,5 @@
 1. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
-2. Check output <!-- {pointed: panel-console} -->
+1. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
 3. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
 4. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
 5. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
