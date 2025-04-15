@@ -15,8 +15,8 @@
             "layout": {
 
                     "area": [
-                        ["panel-xtext", "panel-console" ],
-                        ["panel-instruction", "panel-console2" ]
+                        ["panel-xtext", "panel-console", "panel-console2" ],
+                        ["panel-instruction", "", "panel-console3" ]
                     ]
 
                 },
@@ -83,6 +83,16 @@
                 {
     
                     "id": "panel-console2",
+    
+                    "name": "Console",
+    
+                    "ref": "console"
+    
+                },
+
+                {
+    
+                    "id": "panel-console3",
     
                     "name": "Console",
     
