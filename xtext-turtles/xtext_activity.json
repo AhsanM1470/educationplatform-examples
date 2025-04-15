@@ -16,6 +16,7 @@
 
                     "area": [
                         ["panel-xtext" ],
+                        ["panel-console" ],
                         ["panel-instruction" ]
                     ]
 
@@ -33,7 +34,9 @@
                         "baseName": "uk.kcl.inf.mdd1.turtles",
                         "extension": "turtles",
                         "grammar": "panel-xtext"                        
-                    }
+                    },
+
+                    "output": "panel-console"
 
                 }
             ],
@@ -54,6 +57,17 @@
                     "editorPanel": "panel-turtles",
                     
                     "editorActivity": "activity-turtles-editor"
+                },
+
+
+                {
+    
+                    "id": "panel-console",
+    
+                    "name": "Console",
+    
+                    "ref": "console"
+    
                 },
 
                 {
