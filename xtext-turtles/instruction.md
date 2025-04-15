@@ -1,16 +1,15 @@
-# Welcome
-This is an **interactive** __guide__ to *teach* _you_.
-
-## First
-Click on the [link](https://github.com/) for more information.
-
 1. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
 2. Check output <!-- {pointed: panel-console} -->
-
-## Next
-Do these as well:
-- Write code <!-- {pointed: panel-xtext, spotlighted: panel-console, panel-instruction} -->
-- Check output <!-- {pointed: panel-console} -->
-
-## Final
-You have completed the activity!
+3. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+4. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+5. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+6. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+7. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+8. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+9. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+10. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+11. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+12. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+13. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+14. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+15. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
