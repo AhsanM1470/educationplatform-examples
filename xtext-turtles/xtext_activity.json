@@ -33,9 +33,7 @@
                         "baseName": "uk.kcl.inf.mdd1.turtles",
                         "extension": "turtles",
                         "grammar": "panel-xtext"                        
-                    },
-
-                    "output": "panel-console"
+                    }
 
                 }
             ],
