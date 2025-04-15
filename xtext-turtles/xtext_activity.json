@@ -58,17 +58,6 @@
                     "editorActivity": "activity-turtles-editor"
                 },
 
-
-                {
-    
-                    "id": "panel-console",
-    
-                    "name": "Console",
-    
-                    "ref": "console"
-    
-                },
-
                 {
                     "id": "panel-instruction",
 
