@@ -88,3 +88,13 @@
 88. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
 89. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
 90. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+91. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+92. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+93. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+94. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+95. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+96. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+97. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+98. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+99. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+100. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
