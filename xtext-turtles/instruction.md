@@ -1,15 +1,15 @@
-# Building Our First Textual Language
-In this tutorial we will implement a small domain-specific language...
+# Turtles Program Task
+In this acitivity, you will be updating the Turtles language.
 
-## Write The Grammar
-- The first rule in a grammar is always used as the start rule.
-- Replace the Greeting rule with the rule Domainmodel: (elements+=Type)*; <!-- {pointed: panel-xtext} -->
-- Add the rule Type: DataType | Entity; <!-- {pointed: panel-xtext} -->
-- Next, add the rule DataType: 'datatype' name=ID; <!-- {pointed: panel-xtext} -->
-- Explain the ID rule. <!-- {spotlighted: panel-xtext} -->
-- Add Entity rule. <!-- {pointed: panel-xtext} -->
-- Extend Entity with optional superType. <!-- {spotlighted: panel-xtext} -->
-- Describe features block. <!-- {pointed: panel-xtext} -->
-- Add the Feature rule. <!-- {pointed: panel-xtext} -->
+## Adding loops
+The first thing we will do is add loops to the language.
 
-- Finally, generate language artifacts by clicking the "Generate Editor" button. <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+- Statement is known as a **rule**. It says that a Statement is either a MoveStatement or a TurnStatement
+- Add the line ```| LoopStatement``` to the rule so that a Statement could now also be a LoopStatement.
+- Next we need to define what a LoopStatement rule is.
+- Define the LoopStatement rule as ```LoopStatement: 'repeat' times=INT 'times' '{' statements+=Statement* '}';```
+- This addition means you can now make a Statement repeat multiple times
+- Click the green button on the grammar panel to run generate the editor. If you check out your console, your editor should have been generated successfully.
+
+## Conclusion
+Well done! You have successully added loops to the Turtles language!
