@@ -1,12 +1,16 @@
-1. Write code <!-- {pointed: panel-xtext} -->
-1. Write code <!-- {pointed: panel-console} -->
-3. Write code <!-- {pointed: panel-console2} -->
-4. Write code <!-- {pointed: panel-console3} -->
-5. Write code <!-- {pointed: panel-console4} -->
-6. Write code <!-- {pointed: panel-console5} -->
-7. Write code <!-- {pointed: panel-console6} -->
-8. Write code <!-- {pointed: panel-console7} -->
-9. Write code <!-- {pointed: panel-console8} -->
+# Welcome
+This is an **interactive** __guide__ to *teach* _you_.
 
-# Done
-see yaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+## First
+Click on the [link](https://github.com/) for more information.
+
+1. Write code <!-- {pointed: panel-xtext, spotlighted: panel-console} -->
+2. Check output <!-- {pointed: panel-console} -->
+
+## Next
+Do these as well:
+- Write code <!-- {pointed: panel-xtext, spotlighted: panel-console, panel-instruction} -->
+- Check output <!-- {pointed: panel-console} -->
+
+## Final
+You have completed the activity!
