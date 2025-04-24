@@ -16,7 +16,8 @@
 
                     "area": [
                         ["panel-xtext" ],
-                        ["panel-console" ]
+                        ["panel-console" ],
+                        ["panel-instruction"]
                     ]
 
                 },
@@ -67,6 +68,16 @@
     
                     "ref": "console"
     
+                },
+
+                {
+                    "id": "panel-instruction",
+
+                    "name": "Instruction",
+
+                    "ref": "instruction",
+
+                    "file": "instruction.md"
                 }
 
             ]
